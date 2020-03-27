@@ -29,7 +29,7 @@ rank.array <- function(mat)
 }
 
 ##### Load TCGA data
-#setwd("/data/leej55/umiacs/project-scratch/srescues/newmol")
+#setwd("ASS1")
 load("./data/prob.TCGA.RData")
 
 ##### Association between ASS1 expression and glycolysis/gluconeogenesis 
