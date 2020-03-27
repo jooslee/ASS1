@@ -11,7 +11,7 @@ The code was tested using R version 3.6.1 (2019-07-05) on a x86_64-pc-linux-gnu 
 1. Clone the git repository.
 
 ```
-get clone https://github/jooslee/ASS1.git
+git clone https://github/jooslee/ASS1.git
 ```
 
 2. Obtain the data from a data folder. All the relevant data is compressed in data.zip file. Once extracted it generates ./data folder, and the data for inference of the SL/SR partners and test the predictions in clinical trial datasets are available.
