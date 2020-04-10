@@ -1,5 +1,5 @@
 # Targeting purine synthesis in ASS1 expressing cancers promotes response to immune checkpoint inhibitors
-We provide the custum codes that were used to generate the results of our manuscript ‘Targeting purine synthesis in ASS1 expressing cancers promotes response to immune checkpoint inhibitors’ submitted for review in Nature Cancer.
+We provide the custum codes that were used to generate the results of our manuscript ‘Targeting purine synthesis in ASS1 expressing cancers promotes response to immune checkpoint inhibitors’.
 
 ## Structure of the codes
 The repository includes the source code under ./R directory and relevant data under ./data directory. The code was used to perform TCGA analysis.
